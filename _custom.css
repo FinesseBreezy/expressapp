@@ -1,0 +1,22 @@
+.navbar, navbar-defaulf{
+  background-color: orange !important;
+}
+
+thead{
+  background-color: lightgrey !important;
+}
+tbody{
+  background-color: grey !important;
+}
+tr{
+  background-color: lightblue;
+  width: 20px !important;
+  margin: auto !important;
+  padding: auto !important;
+}
+td{
+  border: 1px solid black !important;
+  width: 20px !important;
+  margin: auto !important;
+  padding: auto !important;
+}

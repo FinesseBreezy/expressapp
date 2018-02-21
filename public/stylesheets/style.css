@@ -1,0 +1,36 @@
+@import "custom.css";
+@import "bootstrap.min.css";
+body{
+  margin-top: 0 !important;
+  background-color: lightgrey !important;
+}
+.navbar, navbar-defaulf{
+  background-color: orange !important;
+  font-size: 20px !important;
+  height: 80px !important;
+  margin: 0 !important;
+}
+.navbar-brand{
+  font-size: 50px !important;
+  font-weight: bold !important;
+}
+thead{
+  background-color: grey !important;
+  font-weight: bold !important;
+}
+tbody{
+  background-color: grey !important;
+}
+table{
+  width: 80% !important;
+  max-height: 10px;
+  border-collapse: separate;
+  border-spacing: 6px !important;
+}
+.form-control{
+  width: 70% !important;
+  margin: 5% 5% 5% 0% !important;
+}
+.input-add{
+  margin-left: 3% !important;
+}
